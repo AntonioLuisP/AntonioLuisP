@@ -1,6 +1,6 @@
 # EAE meu nome é Antônio Luís 👋
 
-Sou uma graduando de Engenharia de Computação em fim de curso.
+Sou Engenhario de Computação.
 - 🔭 Atualmente trabalho com Laravel ...
 - 🌱 Estou estudando as tecnologias de front-end(CSS, Reactjs e Nextjs)
 - ⚡ Jogo um lolzin e um vava no tempo livre
