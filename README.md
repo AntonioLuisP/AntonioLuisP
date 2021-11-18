@@ -2,7 +2,7 @@
 
 Sou Engenhario de Computação.
 - 🔭 Atualmente trabalho com Laravel ...
-- 🌱 Estou estudando as tecnologias de front-end(CSS, Reactjs e Nextjs)
+- 🌱 Estou estudando as tecnologias de front-end(NodeJS, CSS, Reactjs e Nextjs)
 - ⚡ Jogo um lolzin e um vava no tempo livre
 - 🎶 E uma [música](https://open.spotify.com/playlist/15sR5tlN1llAHseFAHqIkB?si=630bbf271cdb4502) sempre que possivel: 
 
